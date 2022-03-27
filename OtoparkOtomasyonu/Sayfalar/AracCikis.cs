@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace OtoparkOtomasyonu
 {
-    public partial class Form1 : Form
+    public partial class AracCikis : Form
     {
-        public Form1()
+        public AracCikis()
         {
             InitializeComponent();
         }
